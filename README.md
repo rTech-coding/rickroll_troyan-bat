@@ -66,5 +66,4 @@ exit
 
 ---
 
-## Autoría
-rTech
+## Creado por rTech
